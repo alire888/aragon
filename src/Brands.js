@@ -1,4 +1,4 @@
 const Brands = () => {
-  return <div>aaaa</div>;
+  return <div>amir</div>;
 };
 export default Brands;
